@@ -15,6 +15,7 @@
 ## C
 
 ## Go
+1. [Go Documentation](https://go.dev/doc/)
 
 ## Algorithm
 
