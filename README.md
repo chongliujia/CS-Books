@@ -24,6 +24,10 @@
 
 1. [Cyber Intelligence](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence)
 
+## eBPF
+
+1. [Wasm-bpf: Wasm library and toolchain for eBPF](https://eunomia.dev/wasm-bpf/)
+
 
 ## Operating Systems
 
