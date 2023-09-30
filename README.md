@@ -27,6 +27,7 @@
 ## eBPF
 
 1. [Wasm-bpf: Wasm library and toolchain for eBPF](https://eunomia.dev/wasm-bpf/)
+2. [Learning eBPF](https://isovalent.com/books/learning-ebpf/#form)
 
 
 ## Operating Systems
