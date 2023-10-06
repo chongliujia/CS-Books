@@ -12,6 +12,7 @@
 
 ## Rust
 1. [The Rust Programming Language](https://doc.rust-lang.org/book/)
+2. [Rust By Practice](https://practice.rs/why-exercise.html)
 
 ## C
 
