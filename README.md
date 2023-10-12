@@ -13,6 +13,7 @@
 ## Rust
 1. [The Rust Programming Language](https://doc.rust-lang.org/book/)
 2. [Rust By Practice](https://practice.rs/why-exercise.html)
+3. [Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/)
 
 ## C
 
