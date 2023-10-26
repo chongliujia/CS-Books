@@ -19,6 +19,7 @@
 
 ## Go
 1. [Go Documentation](https://go.dev/doc/)
+2. [Go by Example](https://gobyexample.com/)
 
 ## Algorithm
 
