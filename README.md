@@ -26,7 +26,9 @@
 ## Computer Security
 
 1. [Cyber Intelligence](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence)
-
+2. [Cuckoo Sandbox - the leading open source automated malware analysis system](https://cuckoosandbox.org/)
+3. [YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples](https://virustotal.github.io/yara/)
+   
 ## eBPF
 
 1. [Wasm-bpf: Wasm library and toolchain for eBPF](https://eunomia.dev/wasm-bpf/)
